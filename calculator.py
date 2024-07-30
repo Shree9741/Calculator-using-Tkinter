@@ -1,5 +1,5 @@
 import tkinter as tk
-
+#this is python file
 def click(event):
     global scvalue
     text = event.widget.cget("text")
